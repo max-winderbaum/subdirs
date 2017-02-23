@@ -1,0 +1,14 @@
+{
+  "name": "subdirs",
+  "version": "1.0.0",
+  "description": "Split a bunch of files into a bunch of subdirs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Winderbaum",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^2.0.0"
+  }
+}
